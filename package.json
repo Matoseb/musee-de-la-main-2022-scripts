@@ -1,0 +1,26 @@
+{
+  "name": "ecalmid-mediapipe",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel serve ./test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matoseb/musee-de-la-main-2022-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matoseb/musee-de-la-main-2022-scripts/issues"
+  },
+  "homepage": "https://github.com/Matoseb/musee-de-la-main-2022-scripts#readme",
+  "dependencies": {
+    "@mediapipe/pose": "^0.5.1635988162"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
